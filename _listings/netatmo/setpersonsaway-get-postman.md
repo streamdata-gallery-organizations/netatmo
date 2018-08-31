@@ -2,7 +2,7 @@
   "info": {
     "name": "Netatmo Get Setpersonsaway",
     "_postman_id": "d0c83ac4-c0c8-41ea-b412-01da0437ab37",
-    "description": "Sets a person as 'Away' or the Home as 'Empty'. The event will be added to the user’s timeline.",
+    "description": "Sets a person as 'Away' or the Home as 'Empty'. The event will be added to the user???s timeline.",
     "schema": "https://schema.getpostman.com/json/collection/v2.0.0/"
   },
   "item": [
@@ -178,7 +178,7 @@
             "body": {
               "mode": "raw"
             },
-            "description": "Sets a person as 'Away' or the Home as 'Empty'. The event will be added to the user’s timeline."
+            "description": "Sets a person as 'Away' or the Home as 'Empty'. The event will be added to the user???s timeline."
           },
           "response": [
             {

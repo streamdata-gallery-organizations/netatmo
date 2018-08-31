@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Netatmo",
+	"description": "This is a repository of netatmo APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/netatmo.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://netatmo.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Netatmo",
+			"x-api-slug": "netatmo",
+			"description": "We develop groundbreaking, intuitive and beautifully-designed connected consumer electronics. Truly smart, our innovative products provide a seamless experience that helps users create a safer, healthier and more comfortable home. We carefully design the mechanics, electronics and embedded software of all our products to the highest standards. Our mobile and web applications are designed to be simple to operate, yet deliver a rich user experience.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/netatmo-logo.png",
+			"humanURL": "http://www.netatmo.com",
+			"baseURL": "https://api.netatmo.net//api",
+			"tags": "Netatmo",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/netatmo/master/_listings/netatmo/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Netatmo",
+	"include": [
+		{
+			"name": "Netatmo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/netatmo/master/_listings/netatmo/apis.yaml"
+		}
+	]
+}

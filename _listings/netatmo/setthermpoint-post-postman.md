@@ -178,7 +178,7 @@
             "body": {
               "mode": "raw"
             },
-            "description": "Sets a person as 'Away' or the Home as 'Empty'. The event will be added to the user’s timeline."
+            "description": "Sets a person as 'Away' or the Home as 'Empty'. The event will be added to the user???s timeline."
           },
           "response": [
             {

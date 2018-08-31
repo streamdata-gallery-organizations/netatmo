@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Netatmo
 x-complete: 1
@@ -339,8 +338,8 @@ paths:
   /setpersonsaway:
     get:
       summary: Get Setpersonsaway
-      description: "Sets a person as 'Away' or the Home as 'Empty'. The event will
-        be added to the user\u2019s timeline."
+      description: Sets a person as 'Away' or the Home as 'Empty'. The event will
+        be added to the user???s timeline.
       operationId: setpersonsaway
       x-api-path-slug: setpersonsaway-get
       parameters:
@@ -430,4 +429,3 @@ paths:
           description: OK
       tags:
       - Schedules
----
